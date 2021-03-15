@@ -4,6 +4,8 @@
 
 ## 🌐 Primeiro site produzido no curso de HTML e CSS da Alura
 
-### 📜 [barbeariaaluradmuller.netlify.app/](barbeariaaluradmuller.netlify.app/)
+### 📜 [https://barbeariaaluradmuller.netlify.app/](https://barbeariaaluradmuller.netlify.app/)
+
+### 🚩 Projeto completo em: [https://github.com/DimitriMll/barbearia-alura-4](https://github.com/DimitriMll/barbearia-alura-4)
 
 ![image](https://github.com/DimitriMll/barbearia-alura-1/blob/main/barbearia1.PNG)
